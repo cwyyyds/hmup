@@ -1,0 +1,23 @@
+{
+  "name": "hmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwyyyds/hmup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwyyyds/hmup/issues"
+  },
+  "homepage": "https://github.com/cwyyyds/hmup#readme",
+  "dependencies": {
+    "flyio": "^0.6.14"
+  }
+}
